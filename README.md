@@ -17,4 +17,5 @@
 
 # NOTE
   - Cập nhập trạng thái bài viết, đăng ký bài viết ở [liên kết](https://docs.google.com/spreadsheets/d/1kqXCJ7OXDLZ2IN_p2BYFsucvr8_uf2AF0i3bbAD1nz0/edit#gid=0) này để tránh bị trùng lặp và dễ tracking.
+  
   - Mình chân trọng mọi sự đóng góp của mọi người để thư viện này lớn mạnh và phù hợp cho mọi người.

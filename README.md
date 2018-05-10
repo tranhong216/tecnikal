@@ -1,7 +1,9 @@
 # Tecnikal
   - Mục đích: Tạo ra các tài liệu để nâng cao technical của bản thân, dễ dàng cho việc ôn lại về sau.
   - Tiêu chí: Dễ đọc - Dễ Hiểu
-  - Tất cả bài viết được sử dụng markdown để thực hiện
+  - Tất cả bài viết được sử dụng markdown để thực hiện
+# REMEMBER IT
+  "Luôn đặt mình vào vị trí của người chậm hiểu để viết ra những bài viết gần gũi với họ nhất"
 # Rule
   - Đảm bảo các thư mục theo cấu trúc mẫu
   - Các bài viết được chia nhỏ và cập nhập liên tục vào mục lục theo thứ tự quan trọng của chủ để

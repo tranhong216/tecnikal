@@ -1,3 +1,3 @@
 # Index of topic Javascript
 
-- Topic 1
+- [DOM trong Javascript](DOM.md)

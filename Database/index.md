@@ -1,3 +1,4 @@
 # Index of topic Database
 
-- Topic 1
+- [Tổng quan cơ sở dữ liệu](db-tongquan.md)
+- [Mô hình ERD](db-mo-hinh-erd.md)

@@ -43,11 +43,11 @@ Mỗi nút trên cây DOM đều có 6 thuộc tính quan hệ để giúp bạn
 - Node.nextSibling: tham chiếu đến nút anh em nằm liền kề sau với nút hiện tại.
 - Node.previousSibling: tham chiếu đến nút anh em nằm liền kề trước với nút hiện tại.
 
-![node](tecnikal/Javascript/image/tp_dom_tree_traversal.png)
+![node](image/tp_dom_tree_traversal.png)
 
 2. Truy xuất trực tiếp
 Truy xuất trực tiếp sẽ nhanh hơn, và đơn giản hơn khi bạn không cần phải biết nhiều về quan hệ và vị trí của nút. Có 3 phương thức để bạn truy xuất trực tiếp được hỗ trợ ở mọi trình duyệt:
-![Dom selector direct ](tecnikal/Javascript/image/selector_dom_direct.png)
+![Dom selector direct ](image/selector_dom_direct.png)
 
 #### Tạo thêm hoặc di chuyển DOM với appendChild
 Như bạn đã biết, mọi nút trên cây cấu trúc DOM đều bắt nguồn sâu xa từ nút gốc và bắt buộc phải có 1 nút cha. Do đó, về bản chất, khi 1 DOM mới được tạo ra, nó cô đơn 1 mình và không thể sử dụng được như các phần tử DOM thông thường. Chỉ sau khi bạn tìm 1 nút khác trên cây DOM để làm cha đứa bé thì quá trình tạo thêm DOM hoàn tất. Nếu bạn đã sẵn sàng để tạo vài em bé thì hãy cùng nhau tạo vài nút mới với 2 phương thức sau:
